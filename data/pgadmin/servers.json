@@ -3,7 +3,7 @@
     "1": {
       "Name": "api-starter-0121",
       "Group": "Dev",
-      "Port": 5432,
+      "Port": 5550,
       "Username": "docker",
       "Password": "docker",
       "Host": "pgFP-api-starter",
